@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/...">
+        <exclude pattern="/apps/.../install"/>
+    </filter>
+    <filter root="/etc/designs/..."/>
+    <filter root="/etc/packages/adobe/consulting"/>
+    <filter root="/apps/sling/servlet/errorhandler"/>
+    <filter root="/etc/workflow/models/..."/>
+</workspaceFilter>
